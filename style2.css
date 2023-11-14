@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.detailed-view-bg-container {
+    background-color: black;
+    background-size: cover;
+}
+
+.hed {
+    color: white;
+    font-family: "Monaco", monospace;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+
+.tags {
+    color: white;
+    margin-top: 45px;
+    margin-left: auto;
+    padding-right: 70px;
+    font-family: "Monaco", monospace;
+    font-size: 20px;
+}
+
+.int-para {
+    color: white;
+    font-size: 35px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.card {
+    margin-left: 90px;
+    margin-right: 30px;
+    margin-top: 380px;
+    background-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    padding: 8px;
+    color: white;
+    margin-bottom: 80px;
+    font-family: "Monaco", monospace;
+}
+
+.int-hed {
+    color: #A7F2EE;
+    font-family: Fantasy;
+    font-size: 60px;
+
+}
+
+.int-card {
+    margin-left: auto;
+    padding-right: 180px;
+    margin-top: 190px;
+}
+
+.profile {
+    margin-top: 10px;
+    padding-left: 120px;
+}
+
+.pic {
+    border-radius: 190px;
+}
+
+.base {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list {
+    color: skyblue;
+    font-size: 25px;
+    margin-left: 120px;
+    font-weight: normal;
+}
+
+.Skills {
+    color: black;
+    font-family: "Monaco", monospace;
+    margin-left: -262px;
+    margin-top: 280px;
+    height: 50px;
+    width: 250px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+.Skill1 {
+
+    font-family: "Monaco", monospace;
+    height: 50px;
+    width: 250px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-left: 120px;
+    margin-top: 160px;
+    margin-bottom: 50px;
+}
+
+.card-b {
+    width: 550px;
+    margin-left: 60px;
+}
+
+.Nike {
+    background-color: white;
+    height: 200px;
+    width: 290px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.nike-hed1 {
+    color: white;
+    font-family: "Monaco", monospace;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+.nike-hed2 {
+    color: white;
+    font-family: "Monaco", monospace;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+.km-65 {
+    margin-left: 325px;
+    margin-top: 195px;
+    width: 390px;
+    padding-bottom: 50px;
+    color: white;
+    font-family: "Monaco", monospace;
+}
